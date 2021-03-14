@@ -1,0 +1,24 @@
+.header {
+    /* background: #fff; */
+    background: rgb(190, 211, 231);
+    border-bottom: 1px solid #e4e6eb;
+    box-shadow: 0 10px 30px #e4e6eb;
+}
+
+.navbar {
+    text-align: center;
+    padding: 5px;
+}
+
+.navbar__img {
+    height: 60px;
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid rgb(62, 39, 117);
+}
+.bannerImagebg{
+    height: 80px;
+    width: auto; 
+    border-radius: 10px;
+
+}
